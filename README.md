@@ -18,8 +18,8 @@ Step 6 : Save and execute the program.
 
 ### Program:
 ```
-Developed By: Palamakula Deepika
-Reg. No.: 212221240035
+Developed By: G venkata Pavan Kumar
+Reg. No.: 212221240013
 ```
 ```
 #include "common.h"
